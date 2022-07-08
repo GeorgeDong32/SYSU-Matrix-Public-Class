@@ -1,8 +1,8 @@
 <h1 align="center">
 
-<img src="https://github.com/GeorgeDong32/SYSU_Matrix_2022/blob/main/Pics/Matrix.ico" alt="Matrix.ico" width="32">SYSU-Matrix-Public-Class
+<img src="https://github.com/GeorgeDong32/SYSU-Matrix-Public-Class/blob/main/img%20src/Matrix.ico" alt="Matrix.ico" width="42">SYSU-Matrix-Public-Class
 
-<img src="https://github.com/GeorgeDong32/SYSU_Matrix_2022/blob/main/Pics/Matrix_title.jpeg" alt="Matrix" width="600">
+<img src="https://github.com/GeorgeDong32/SYSU-Matrix-Public-Class/blob/main/img%20src/Matrix_title.jpeg" alt="Matrix" width="600">
 </h1>
 
 > **Copyright (c) matrix.sysu.edu.cn. All rights reserved.** 
