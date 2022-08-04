@@ -1,0 +1,2 @@
+#将Jupyter Notebooks记为python
+*.ipynb linguist-language=python
